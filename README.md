@@ -1,6 +1,6 @@
-# Hi, Luc Omar Smart here! 👋   
+# Hi, Luc Omar S. here! 👋   
 
-I'm a Network Security Engineer with a strong background in Information Technology and a deep focus on cybersecurity and infrastructure protection. Backed by industry certifications like *CCNA* and *CompTIA Security+*, I specialize in building secure networks, identifying vulnerabilities, and implementing robust defensive strategies.
+I'm a Cybersecurity Specialist and Network Analyst with hands-on experience in securing IT systems, conducting vulnerability assessments, and writing technical content. Certified in CCNA and CompTIA Security+. Passionate about ethical hacking, bug bounty hunting, and continuous learning in offensive security.
 
 
 ### ✍ Publications & Articles
